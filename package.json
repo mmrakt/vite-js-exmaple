@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
+    "revbuild": "vite build -- --revision",
     "preview": "vite preview"
   },
   "devDependencies": {
